@@ -1,0 +1,171 @@
+{
+  "cesp_version": "1.0",
+  "name": "nyanners-serqet",
+  "display_name": "Nyanners (Serqet Voice Pack)",
+  "version": "1.0.0",
+  "author": {
+    "name": "sharpobject"
+  },
+  "language": "en",
+  "description": "Nyanners voice lines from SMITE Serqet skin and stream clips, categorized for coding events.",
+  "categories": {
+    "input.required": [
+      {
+        "file": "sounds/ecscuse_me_are_you_going_to_pet_me.ogg",
+        "label": "ecscuse me are you going to pet me"
+      },
+      {
+        "file": "sounds/help.ogg",
+        "label": "help"
+      },
+      {
+        "file": "sounds/i_need_more_vodka.mp3",
+        "label": "i need more vodka"
+      },
+      {
+        "file": "sounds/need_healing.ogg",
+        "label": "need healing"
+      },
+      {
+        "file": "sounds/out_of_mana.ogg",
+        "label": "out of mana"
+      },
+      {
+        "file": "sounds/please.ogg",
+        "label": "please"
+      }
+    ],
+    "resource.limit": [
+      {
+        "file": "sounds/cancel_that.ogg",
+        "label": "cancel that"
+      },
+      {
+        "file": "sounds/looks_like_i_had_too_much_catnip.ogg",
+        "label": "looks like i had too much catnip"
+      },
+      {
+        "file": "sounds/no.ogg",
+        "label": "no"
+      },
+      {
+        "file": "sounds/save_yourself.ogg",
+        "label": "save yourself"
+      }
+    ],
+    "session.end": [
+      {
+        "file": "sounds/be_right_back.ogg",
+        "label": "be right back"
+      },
+      {
+        "file": "sounds/do_svidanya.ogg",
+        "label": "do svidanya"
+      },
+      {
+        "file": "sounds/i_love_you_uguu.mp3",
+        "label": "i love you uguu"
+      },
+      {
+        "file": "sounds/im_gonna_get_the_fuck_out_of_here.mp3",
+        "label": "im gonna get the fuck out of here"
+      },
+      {
+        "file": "sounds/take_it_take_the_vodka.mp3",
+        "label": "take it take the vodka"
+      },
+      {
+        "file": "sounds/thanks.ogg",
+        "label": "thanks"
+      }
+    ],
+    "session.start": [
+      {
+        "file": "sounds/every_room_is_an_escape_room_when_im_in_it.ogg",
+        "label": "every room is an escape room when im in it"
+      },
+      {
+        "file": "sounds/hello_everynyan.ogg",
+        "label": "hello everynyan"
+      },
+      {
+        "file": "sounds/nyatasha_nyanners.ogg",
+        "label": "nyatasha nyanners"
+      }
+    ],
+    "task.acknowledge": [
+      {
+        "file": "sounds/im_on_it.ogg",
+        "label": "im on it"
+      },
+      {
+        "file": "sounds/nyanya.ogg",
+        "label": "nyanya"
+      },
+      {
+        "file": "sounds/okay.ogg",
+        "label": "okay"
+      },
+      {
+        "file": "sounds/yes.ogg",
+        "label": "yes"
+      },
+      {
+        "file": "sounds/yes_.ogg",
+        "label": "yes "
+      }
+    ],
+    "task.complete": [
+      {
+        "file": "sounds/completed.ogg",
+        "label": "completed"
+      },
+      {
+        "file": "sounds/im_pretty_good_at_this.ogg",
+        "label": "im pretty good at this"
+      },
+      {
+        "file": "sounds/youre_welcome.ogg",
+        "label": "youre welcome"
+      }
+    ],
+    "task.error": [
+      {
+        "file": "sounds/be_careful.ogg",
+        "label": "be careful"
+      },
+      {
+        "file": "sounds/falling_back.ogg",
+        "label": "falling back"
+      },
+      {
+        "file": "sounds/fuck.mp3",
+        "label": "fuck"
+      },
+      {
+        "file": "sounds/it_could_be_worse.ogg",
+        "label": "it could be worse"
+      },
+      {
+        "file": "sounds/you_arent_mad_are_you.ogg",
+        "label": "you arent mad are you"
+      }
+    ],
+    "task.progress": [
+      {
+        "file": "sounds/attack.ogg",
+        "label": "attack"
+      },
+      {
+        "file": "sounds/i_have_returned.ogg",
+        "label": "i have returned"
+      }
+    ],
+    "user.spam": [
+      {
+        "file": "sounds/spamming_is_not_poggers.ogg",
+        "label": "spamming is not poggers"
+      }
+    ]
+  }
+}
