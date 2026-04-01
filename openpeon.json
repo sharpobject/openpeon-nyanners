@@ -27,26 +27,26 @@
         "label": "need healing"
       },
       {
-        "file": "sounds/out_of_mana.ogg",
-        "label": "out of mana"
-      },
-      {
         "file": "sounds/please.ogg",
         "label": "please"
       }
     ],
     "resource.limit": [
       {
-        "file": "sounds/cancel_that.ogg",
-        "label": "cancel that"
+        "file": "sounds/be_careful.ogg",
+        "label": "be careful"
+      },
+      {
+        "file": "sounds/falling_back.ogg",
+        "label": "falling back"
       },
       {
         "file": "sounds/looks_like_i_had_too_much_catnip.ogg",
         "label": "looks like i had too much catnip"
       },
       {
-        "file": "sounds/no.ogg",
-        "label": "no"
+        "file": "sounds/out_of_mana.ogg",
+        "label": "out of mana"
       },
       {
         "file": "sounds/save_yourself.ogg",
@@ -131,12 +131,8 @@
     ],
     "task.error": [
       {
-        "file": "sounds/be_careful.ogg",
-        "label": "be careful"
-      },
-      {
-        "file": "sounds/falling_back.ogg",
-        "label": "falling back"
+        "file": "sounds/cancel_that.ogg",
+        "label": "cancel that"
       },
       {
         "file": "sounds/fuck.mp3",
@@ -145,6 +141,10 @@
       {
         "file": "sounds/it_could_be_worse.ogg",
         "label": "it could be worse"
+      },
+      {
+        "file": "sounds/no.ogg",
+        "label": "no"
       },
       {
         "file": "sounds/you_arent_mad_are_you.ogg",
